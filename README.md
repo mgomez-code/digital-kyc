@@ -1,4 +1,4 @@
-# Digital KYC app with VueJs 56
+# Digital KYC app with VueJs 
 
 Get yourself an API Key from from https://www.ofac-api.com/documentation.html
 
